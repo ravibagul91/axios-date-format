@@ -1,2 +1,2 @@
-# axios-date-format
+# moment-date-format
 Do the operations on date
