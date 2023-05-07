@@ -1,0 +1,32 @@
+{
+  "name": "moment-date-format",
+  "version": "1.0.0",
+  "description": "Do the operations on date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravibagul91/moment-date-format.git"
+  },
+  "keywords": [
+    "create-date-range",
+    "moment-dates",
+    "moment-date-format",
+    "moment-date-operations",
+    "date-operations",
+    "subtract-dates",
+    "compare-dates"
+  ],
+  "author": "Ravindra Bagul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravibagul91/moment-date-format/issues"
+  },
+  "homepage": "https://github.com/ravibagul91/moment-date-format#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
