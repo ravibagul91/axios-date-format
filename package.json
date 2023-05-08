@@ -1,6 +1,6 @@
 {
   "name": "moment-date-format",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Do the operations on date",
   "main": "index.js",
   "scripts": {
